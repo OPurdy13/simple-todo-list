@@ -4,7 +4,7 @@ A clean, simple, and free-to-use To-Do List web app — no login required!
 All tasks are saved locally in your browser.
 
 ## 🚀 Live Demo
-[Click here to use the app](https://your-username.github.io/simple-todo-list)
+[Click here to use the app](https://OPurdy13.github.io/simple-todo-list)
 
 ## 📄 Features
 - Add, delete, toggle tasks
